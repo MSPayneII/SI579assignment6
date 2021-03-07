@@ -94,12 +94,10 @@ body {
     }
 
     @include breakpoint-up(medium){
-        height: 22.5rem; //360px
+        height: 9.5rem; //152px
     }
 
-    @include breakpoint-up(large){
-        height: 11.5rem; //184px;
-    }
+ 
     
 }
 
